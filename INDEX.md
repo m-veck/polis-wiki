@@ -7,5 +7,6 @@ under the right group as they create files.
 ## /source/
 
 ## /knowledge/
+- /knowledge/self-test-note-1779785645.md — Self-test note (v2 flow).
 
 ## /meta/
